@@ -88,3 +88,5 @@ Focus investment on fast-growing subcategories with high returns (e.g., Eye Shad
 
 ### Conclusion
 This dashboard provides actionable insights into the sales and growth performance across multiple dimensions. It can serve as a strategic decision-support tool for sales, marketing, and product teams.
+
+![Dashboard](./sales.PNG)
